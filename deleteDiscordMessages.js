@@ -1,5 +1,5 @@
 // Paste this code inside discord.com console
-
+// Paste this code inside discord.com console
 (function () {
     let stop;
     let popup;
